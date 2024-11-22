@@ -70,6 +70,6 @@
     "testEnvironment": "node"
   },
   "lint-staged": {
-    "src/**/*": "prettier --write"
+    "src/**/*": "npm run lint"
   }
 }
