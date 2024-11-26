@@ -7,4 +7,6 @@ async function bootstrap() {
 }
 console.log('test2');
 
+const x = 10;
+
 bootstrap();
